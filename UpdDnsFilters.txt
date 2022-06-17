@@ -1,0 +1,15 @@
+! Title: Xblocked
+! Updated: Mon, 27 May 2022 15:39:57 +0000 
+! Version: 0.0.0.1
+
+||google.com^
+||facebook.com^
+0.0.0.0 lenta.ru
+@@||pornhub.com^
+||pornhub.com$badfilter
+||atavas.ru$badfilter
+||meduza.io$badfilter
+@@/example.*/
+@@||mail.ru^
+||ya.ru^
+||i.ua^
